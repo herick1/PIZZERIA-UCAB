@@ -16,20 +16,20 @@ while(1==1):
 
 	print("Ingredientes:")
 
-	for ingrediente in ingredientes
+	#for ingrediente in ingredientes
 		#print(ingrediente.nombre+" ("+ ingrediente.id +" )")
 
 	ingredienteSeleccionado = input("Indique ingrediente (enter para terminar):") #pasar informacion
 	print("Usted selecciono una pizza ", tamaño ," Margarita")
-	print("Usted selecciono una pizza ", tamaño ," con" ingredientesSeleccionados) #hacer if
+	print("Usted selecciono una pizza ", tamaño ," con" )#ingredientesSeleccionados) #hacer if
 
 
-	print("Subtotal a pagar por una pizza ",tamaño, " :" ,pizza.precio)
+	#print("Subtotal a pagar por una pizza ",tamaño, " :" ,pizza.precio)
 	print("*"*58)
 	print("¿Deseas continuar [s/n]?:")
 
-	print("El pedido tiene un total de" , PizzasCantidad , "pizza(s) por un monto de :", total)
-		print("Gracias por su compra, regrese pronto")
+	#print("El pedido tiene un total de" , PizzasCantidad , "pizza(s) por un monto de :", total)
+	print("Gracias por su compra, regrese pronto")
 
 	if(1==1):
 		break;
